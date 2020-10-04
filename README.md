@@ -1,1 +1,1 @@
-# concept-ts-template
+# concept-use-class-validator
